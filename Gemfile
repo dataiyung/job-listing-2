@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+gem 'carrierwave'
 gem 'awesome_rails_console'
 gem 'devise'
 gem 'bootstrap-sass'
